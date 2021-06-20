@@ -9,3 +9,5 @@ A simple checksum formula used to validate a variety of identification numbers, 
 char * number = "4263982640269299";
 bool IsTrue = checkLuhn(number);
 ```
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/EEDDRV/Luhn-Algorithm)
+[![GitHub license](https://img.shields.io/github/license/EEDDRV/Luhn-Algorithm)](https://github.com/EEDDRV/Luhn-Algorithm/blob/main/LICENSE)
